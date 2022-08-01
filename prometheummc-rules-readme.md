@@ -1,7 +1,7 @@
 # PrometheumMC Rules !README!
 
 {% hint style="danger" %}
-<mark style="color:yellow;">**Just because a rule is not listed here does not mean it doesn't exist. Generally, don't be a dick to other players and you'll be fine. If you are going out of your way to be annoying, you will be removed from the server.**</mark>
+<mark style="color:red;">**Just because a rule is not listed here does not mean it doesn't exist. Generally, don't be a detriment to other players and you'll be fine. If you are going out of your way to be annoying, you will be removed from the server.**</mark>
 {% endhint %}
 
 1. No griefing, stealing, or generally being a detriment to other players. At all. Period. If you are caught doing this you will be permanently banned with no appeal process. Bans do not reset on season resets.&#x20;
