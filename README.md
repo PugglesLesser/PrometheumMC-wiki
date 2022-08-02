@@ -1,7 +1,6 @@
 ---
 cover: .gitbook/assets/Screenshot 2022-02-07 113030.png
 coverY: 0
-layout: landing
 ---
 
 # PrometheumMC Wiki
