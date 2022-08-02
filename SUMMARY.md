@@ -1,12 +1,14 @@
 # Table of contents
 
 * [PrometheumMC Wiki](README.md)
-* [PrometheumMC Rules !README!](prometheummc-rules-readme.md)
-* [FAQ !README!](faq-readme.md)
+* [SERVER RULES - README](server-rules-readme.md)
 
-## Server Info
+## General Info
 
-* [WIP](server-info/wip.md)
+* [FAQ](general-info/faq.md)
+* [Known Bugs](general-info/known-bugs.md)
+* [Commands](general-info/commands.md)
+* [Resource Pack](general-info/resource-pack.md)
 
 ## Guides
 

@@ -6,6 +6,8 @@ To craft a single Gilded Netherite Ingot, you must first acquire an [Infernal Co
 
 ![1x Infernal Core, 1x Reinforced Netherite Ingot](<../../.gitbook/assets/image (97).png>)
 
+{% hint style="info" %}
 Gilded Netherite is infused with special properties that allow it to be constantly reforged, unlike most other gear and weapons.&#x20;
+{% endhint %}
 
 ### Gilded Netherite Gear Coming Soon!

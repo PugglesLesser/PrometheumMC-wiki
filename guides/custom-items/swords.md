@@ -1,8 +1,10 @@
+---
+description: >-
+  In this section you will find a list of all swords, what they do, and how to
+  craft them.
+---
+
 # Swords
-
-In this section you will find a list of all swords, what they do, and how to craft them.&#x20;
-
-There will be a placeholder texture for any swords that do not have a texture yet.&#x20;
 
 ## All Vanilla Swords:
 
@@ -18,7 +20,9 @@ There will be a placeholder texture for any swords that do not have a texture ye
 
 ![Netherite Sword](<../../.gitbook/assets/image (55).png>)
 
-None of these swords have any special abilities, all of them are crafted the same way as normal. The only thing that has changed is critical strikes and gem slots.&#x20;
+{% hint style="info" %}
+None of these swords have any special abilities, all of them are crafted the same way as normal. The only thing that has changed is [critical strikes](../custom-stat-system/weapon-stats.md) and gem slots.&#x20;
+{% endhint %}
 
 ## Common Swords:
 
@@ -587,7 +591,7 @@ The Implester Sword is a sword that does a little bit of everything, from having
 
 ![Witcher Steel Sword](<../../.gitbook/assets/image (34).png>)
 
-![1x Nether Star, 1x Weapon Binder, 1x Machiavelli, 1x Silver Sword, 1x Falchion](<../../.gitbook/assets/image (1).png>)
+![1x Nether Star, 1x Weapon Binder, 1x Machiavelli, 1x Silver Sword, 1x Falchion](<../../.gitbook/assets/image (1) (1).png>)
 
 
 

@@ -4,7 +4,9 @@
 
 Wands are an alternative source of ranged damage, and although they aren't much now, they will soon be upgradable.
 
-#### ! List is subject to change !&#x20;
+{% hint style="warning" %}
+**List is subject to change**
+{% endhint %}
 
 ## Vanilla-(ish) Wands
 

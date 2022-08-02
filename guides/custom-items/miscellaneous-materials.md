@@ -16,7 +16,9 @@
 
 ![3x Paper & 1x Rare Essence](<../../.gitbook/assets/image (28).png>)
 
+{% hint style="info" %}
 Common & Rare essence can be broken down by using a Bone Shard on Rare & Common items respectively.&#x20;
+{% endhint %}
 
 ### Bone Shard
 
@@ -46,7 +48,9 @@ Common & Rare essence can be broken down by using a Bone Shard on Rare & Common 
 
 ![5x Molded Sulphur](<../../.gitbook/assets/image (43).png>)
 
-Spider eyes are the same as Iron Blocks, except that it is just 9 for each tier instead of 8 - 9 - 9. Same applies for Rotten Flesh, String, and Wolf Pelts. &#x20;
+{% hint style="info" %}
+Spider eyes are the same as Iron Blocks, except that it is just 9 for each tier instead of 8-9-9. Same applies for Rotten Flesh, String, and Wolf Pelts. &#x20;
+{% endhint %}
 
 ### Weapon Binder
 
