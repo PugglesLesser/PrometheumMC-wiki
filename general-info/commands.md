@@ -31,12 +31,13 @@ This is a list of _general_ commands. For more specialized commands, i.e. settin
 | /discord                    | Gives a link to the server's Discord.                                                                                                         |
 | /einfo (enchantment name)   | Gives a brief description of an enchantment, what rarity it is, what the max level is, what it can be applied to, and what it conflicts with. |
 | /enchants                   | Opens a GUI with all available enchantments in an easily searchable and organized menu.                                                       |
-| /dumbquestion               | For those players who refuse to read the wiki...                                                                                              |
+| /dumbquestion               | For those players who refuse to read the wiki... (has a 5 second global cooldown to prevent spam)                                             |
 | /afk                        | Marks you as AFK, bypassing the normal time you have to wait to be marked as AFK.                                                             |
 | /duel (playername)          | Sends a request to duel the target player. <mark style="color:red;">**(CURRENTLY DISABLED)**</mark>                                           |
 | /tps                        | Gives the server's current TPS (ticks per second).                                                                                            |
-| /realname (playername)      | Gives the targetted player's real name, useful for certain commands that can't accept nicknamed players.                                      |
-|                             |                                                                                                                                               |
+| /realname (playername)      | Gives the selected player's real name, useful for certain commands that can't accept nicknamed players.                                       |
+| /playtime                   | Gives your current playtime.                                                                                                                  |
+| /playtimetop                | Gives a list of players who have ~~wasted~~ spent the most time on the server.                                                                |
 
 {% hint style="info" %}
 If you think any commands were left out, let us know in the [Discord](../)!
