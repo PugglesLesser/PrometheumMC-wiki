@@ -4,6 +4,14 @@
 #### Read this before creating a ticket to see if your question has already been answered!
 {% endhint %}
 
+### <mark style="color:green;">Does the server have a spawn? I seem to have spawned randomly...</mark>
+
+> Yes, the server will automatically RTP you and then set your home at the location that it teleported you to. Make sure that you don't stray too far, or you set your home at a new location when you settle down!
+
+### <mark style="color:green;">How do I link nether portals?</mark>
+
+> [Guide on linking nether portals](../guides/gameplay-tweaks-and-additions/linked-nether-portals.md).
+
 ### <mark style="color:green;">**Can I make (…) vanilla farm / structure?**</mark>
 
 > Yes, so long as it does not lag the server or become a detriment to other players, or exploit unintended mechanics. Breaking bedrock, getting onto the roof of the nether, and other harmless "exploits" are fine, but dupes, crash glitches, and other harmful exploits are not.

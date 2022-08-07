@@ -1,7 +1,7 @@
 # Resource Pack
 
 {% hint style="warning" %}
-This server uses a custom resource pack, made by LesserPuggles, l3rosiah, Micah\_B12, and Hackogaming, with textures from Starmute for Incendium compatibility.&#x20;
+This server uses a custom resource pack, made by LesserPuggles, l3rosiah, Micah\_B12, SirPogsalot, and Hackogaming, with textures from Starmute for Incendium compatibility.&#x20;
 {% endhint %}
 
 Although the server will automatically send you the latest version of the resource pack, that can take up a lot of time depending on your connection and you device's performance.&#x20;

@@ -7,9 +7,11 @@ coverY: 0
 
 ## Welcome to PrometheumMC!
 
-PrometheumMC is a vanilla+ server that builds a ton of extra mechanics on top of already familiar core Minecraft gameplay! All changes are completely optional and you don't even have to touch them if you don't want to. But, since you're already here, this is the wiki for all of PrometheumMC's mechanics!
+**PrometheumMC is a vanilla+ server that builds a ton of extra mechanics on top of already familiar core Minecraft gameplay!** All changes are completely optional and you don't even have to touch them if you don't want to. But, since you're already here, this is the wiki for all of PrometheumMC's mechanics!
 
 **The server is fully EULA compliant.** Any donations are appreciated but not required! No gameplay perks are (or ever will be) given out to those who support the server, all benefits are purely cosmetic or affect everyone in game, not just one person.
+
+**Chat reporting is disabled and we do everything in out power to keep it that way.** We feel that chat reporting is an overstep by Microsoft into what should be completely privately owned servers.&#x20;
 
 Check out the [gameplay tweaks](guides/gameplay-tweaks-and-additions/) section for a quick look at everything that is changed about vanilla gameplay, then go from there!&#x20;
 
@@ -20,7 +22,7 @@ The wiki is always expanding and adding more information! If you want to contrib
 ### General Information:
 
 * IP: mc.prometheum.xyz
-* Version: 1.19&#x20;
+* Version: 1.19.x (any 1.19 version)&#x20;
 * Discord: [https://discord.gg/2tpAPDMHBF](https://discord.gg/2tpAPDMHBF)
 * Store: [https://shop.prometheum.xyz/](https://shop.prometheum.xyz/)
 * Dynmap: [http://66.118.233.9:8123/](http://66.118.233.9:8123/)

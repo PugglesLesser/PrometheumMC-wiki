@@ -6,6 +6,7 @@
 ## General Info
 
 * [FAQ](general-info/faq.md)
+* [Getting Started](general-info/getting-started.md)
 * [Known Bugs](general-info/known-bugs.md)
 * [Commands](general-info/commands.md)
 * [Resource Pack](general-info/resource-pack.md)

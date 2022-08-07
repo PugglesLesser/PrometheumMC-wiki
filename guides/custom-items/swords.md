@@ -178,7 +178,7 @@ The Falchion is more of a giant blunt weapon than a sword, and as such takes two
 
 ### Rapier
 
-![Rapier](<../../.gitbook/assets/image (7).png>)
+![Rapier](<../../.gitbook/assets/image (7) (1).png>)
 
 ![2x Netherite Ingot, 2x Wither Skeleton Skull, 1x Wither Rose, 1x Stick](<../../.gitbook/assets/image (77).png>)
 
