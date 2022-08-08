@@ -14,7 +14,7 @@ description: >-
 
 ![Iron Sword](<../../.gitbook/assets/image (31).png>)
 
-![Golden Sword](../../.gitbook/assets/image.png)
+![Golden Sword](<../../.gitbook/assets/image (1).png>)
 
 ![Diamond Sword](<../../.gitbook/assets/image (71).png>)
 

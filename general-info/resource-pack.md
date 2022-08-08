@@ -12,4 +12,4 @@ If you need a guide on how to install Minecraft resource packs: [https://minecra
 
 To disable the server resource packs, simply go to your server browser, click PrometheumMC > edit (in the bottom left) > set "Server Resource Packs" to "Disabled".
 
-![Server resource packs disabled](<../.gitbook/assets/image (1).png>)
+![Server resource packs disabled](<../.gitbook/assets/image (1) (2).png>)

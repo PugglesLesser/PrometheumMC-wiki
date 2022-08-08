@@ -42,5 +42,9 @@ Collect boss shards from Servants! Guide on Servants and where to find them.
 Craft those boss shards into a boss summon and fight the boss! It is recommended that  you fight it with other players, since you have a limited number of lives, and the bosses are _very_ difficult. Complete guide on bosses here.
 {% endhint %}
 
+{% hint style="success" %}
+Consider getting started with Gems, a unique system that allows you to make modifications to your items' stats once you think you're done upgrading them with enchantments!
+{% endhint %}
+
 
 

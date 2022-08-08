@@ -9,6 +9,7 @@
 * [Getting Started](general-info/getting-started.md)
 * [Known Bugs](general-info/known-bugs.md)
 * [Commands](general-info/commands.md)
+* [Roadmap](general-info/roadmap.md)
 * [Resource Pack](general-info/resource-pack.md)
 
 ## Guides
@@ -32,3 +33,6 @@
   * [Weapon Stats](guides/custom-stat-system/weapon-stats.md)
   * [Armor/Shield Stats](guides/custom-stat-system/armor-shield-stats.md)
   * [Defense Rating](guides/custom-stat-system/defense-rating.md)
+* [Custom Mobs & Bosses (WIP)](guides/custom-mobs-and-bosses-wip/README.md)
+  * [Random Spawns (WIP)](guides/custom-mobs-and-bosses-wip/random-spawns-wip.md)
+  * [Bosses (WIP)](guides/custom-mobs-and-bosses-wip/bosses-wip.md)
