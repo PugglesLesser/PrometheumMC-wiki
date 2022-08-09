@@ -20,3 +20,7 @@ Completed features that started as suggestions:
 
 Things that will **NOT** be added and why:
 
+* /roll command to re-roll optimized villagers without having to break and replace a lectern.
+
+> This is simply outside the scope of the plugin, and would cause too many conflicts and potential issues with villagers.
+
