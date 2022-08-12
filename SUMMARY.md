@@ -35,4 +35,5 @@
   * [Defense Rating](guides/custom-stat-system/defense-rating.md)
 * [Custom Mobs & Bosses (WIP)](guides/custom-mobs-and-bosses-wip/README.md)
   * [Random Spawns (WIP)](guides/custom-mobs-and-bosses-wip/random-spawns-wip.md)
-  * [Bosses (WIP)](guides/custom-mobs-and-bosses-wip/bosses-wip.md)
+  * [Bosses (WIP)](guides/custom-mobs-and-bosses-wip/bosses-wip/README.md)
+    * [Shade, the Enigmatic Entity](guides/custom-mobs-and-bosses-wip/bosses-wip/shade-the-enigmatic-entity.md)

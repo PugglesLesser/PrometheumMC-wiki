@@ -1,10 +1,8 @@
-# Bosses (WIP)
-
-#### PrometheumMC has 3 bosses (currently), one for each dimension. This guide will detail each boss, a general overview of them and their servants, and what items they drop.
-
-### Shade, the Enigmatic Entity
+# Shade, the Enigmatic Entity
 
 The Shade is considered to be the ruler of the End dimension. Not much is known about him, but it is known that he isn't very welcoming to visitors.
+
+### Stats:
 
 > **HP:** 15,000
 >
@@ -14,7 +12,7 @@ The Shade is considered to be the ruler of the End dimension. Not much is known 
 >
 > **Immunities:** Withering, Explosions, Fall Damage, Drowning, Lightning, Magic, Thorns, Lava, Fire, Suffocation.
 
-Attack List:
+### Attack List:
 
 * **Levitation Sphere:**
 
@@ -40,4 +38,15 @@ Attack List:
 >
 > If The Shade is enraged it will send out an additional wave of projectiles each time.
 
-### &#x20;
+### General Tips:
+
+{% hint style="info" %}
+Once The Shade reaches 0 hp for the first time, it will become Enraged, upgrading all of its attacks and healing to full.
+{% endhint %}
+
+{% hint style="info" %}
+In general, when The Shade is in the air performing one of its attacks, it will not receive  any damage. It might still be stunned by various skills, however.&#x20;
+{% endhint %}
+
+
+

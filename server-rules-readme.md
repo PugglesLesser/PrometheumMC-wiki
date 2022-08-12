@@ -14,6 +14,7 @@
 6. No racist or anti-LGBTQIA+ behavior, keep this space is as inclusive as possible.
 7. No abusing exploits. **THIS INCLUDES:** abusing unintended server mechanics for personal gain, god-mode exploits, dupe glitches, etc. If you see an exploit, report it to staff, **DO NOT ABUSE IT**, as this may result in punishment.&#x20;
 8. PvP is allowed, but if a player has PvP toggled off and you go out of your way to kill them, this will be considered an exploit and you will be dealt with as needed.
+9. If you unintentionally destroy something, or a creeper destroys something someone else made, leave a quick sign saying that it was an accident if the player is offline! Most people are fine with accidents!
 
 
 
