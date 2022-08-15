@@ -2,7 +2,7 @@
 
 PrometheumMC features EcoEnchants, a plugin which drastically expands the amount of enchantments present in the game.&#x20;
 
-There are too many to list, but if you want a full spreadsheet of all enchantments and rarities: [https://docs.google.com/spreadsheets/d/1-3FOUnFoBj-AY2RKfnbfoso0kTCcsIfhNXCdzjilmEU/](https://docs.google.com/spreadsheets/d/1-3FOUnFoBj-AY2RKfnbfoso0kTCcsIfhNXCdzjilmEU/edit?usp=sharing)
+[https://docs.google.com/spreadsheets/d/1-3FOUnFoBj-AY2RKfnbfoso0kTCcsIfhNXCdzjilmEU/](https://docs.google.com/spreadsheets/d/1-3FOUnFoBj-AY2RKfnbfoso0kTCcsIfhNXCdzjilmEU/edit?usp=sharing)
 
 Each enchantment has a different rarity, meaning that it will be less likely to show up in villager trades or in enchanting table trades.&#x20;
 
@@ -27,3 +27,22 @@ Enchantment extractors can be used to take an enchantment off of an item, includ
 ![](<../.gitbook/assets/image (17).png>)
 
 ![](<../.gitbook/assets/image (60).png>)
+
+## All Enchantments
+
+#### Enchantment Rarities:
+
+| Rarity                                       | Villager Probability | Enchant Table Probability |
+| -------------------------------------------- | :------------------: | :-----------------------: |
+| Common                                       |         15.5%        |            65%            |
+| <mark style="color:green;">Uncommon</mark>   |         10.5%        |            20%            |
+| <mark style="color:blue;">Rare</mark>        |         6.25%        |            20%            |
+| <mark style="color:purple;">Epic</mark>      |         3.5%         |            10%            |
+| <mark style="color:orange;">Legendary</mark> |         2.25%        |             6%            |
+| <mark style="color:purple;">Special</mark>   |         1.5%         |           1.75%           |
+| <mark style="color:red;">Very Special</mark> |        0.0025%       |           0.05%           |
+| <mark style="color:red;">Artifact</mark>     |          0%          |   0.5% (Supporter Only)   |
+
+### Common Enchants
+
+WIP
