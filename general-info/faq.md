@@ -18,7 +18,7 @@
 
 ### <mark style="color:green;">Where did my armor points (chestplate icons) go?</mark>
 
-> This server uses a completely custom armor system called Defense. A complete explanation can be found [here](../guides/custom-stat-system/defense-rating.md), but a simple explanation is that Vanilla armor is unwieldy and difficult to control and this makes it easier for armor to be balanced. The TL;DR of the entire explanation is that vanilla armor is better at high incoming damage and worse at lower incoming damage values.&#x20;
+> This server uses a completely custom armor system called Defense. A complete explanation can be found [here](../guides/custom-weapon-stats/defense-rating.md), but a simple explanation is that Vanilla armor is unwieldy and difficult to control and this makes it easier for armor to be balanced. The TL;DR of the entire explanation is that vanilla armor is better at high incoming damage and worse at lower incoming damage values.&#x20;
 
 ### <mark style="color:green;">My items can't be enchanted because it says "Too Expensive!", what can I do?</mark>
 

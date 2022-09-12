@@ -21,7 +21,7 @@ description: >-
 ![Netherite Sword](<../../.gitbook/assets/image (55).png>)
 
 {% hint style="info" %}
-None of these swords have any special abilities, all of them are crafted the same way as normal. The only thing that has changed is [critical strikes](../custom-stat-system/weapon-stats.md) and gem slots.&#x20;
+None of these swords have any special abilities, all of them are crafted the same way as normal. The only thing that has changed is [critical strikes](../custom-weapon-stats/weapon-stats.md) and gem slots.&#x20;
 {% endhint %}
 
 ## Common Swords:
